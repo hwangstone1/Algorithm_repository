@@ -12,7 +12,7 @@
 
 from sys import stdin, stdout
 n = stdin.readline()
-N = sorted(map(int,stdin.readline().split()))
+N = sorted(map(int, stdin.readline().split()))
 m = stdin.readline()
 M = map(int, stdin.readline().split())
 
@@ -30,4 +30,4 @@ def binary(l, N, start, end):
 for l in M:
     start = 0
     end = len(N)-1
-    print(binary(l,N,start,end))
+    print(binary(l, N, start, end))
