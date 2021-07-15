@@ -10,30 +10,24 @@
 이 안에 X라는 정수가 존재하는지 알아내는 프로그램을 작성하시오.
 '''
 
-def binary_search(a_list, start, end, target):
-    while start<=end: # 대량의 데이터가 들어올때는 재귀보다 반복문이 좋다. 숫자가 커질경우 시간복잡도가 올라간다.
-        mid = (start+end)//2
-        if a_list[mid] == target:
-            return mid
-        elif a_list[mid]> target:
-            end = mid-1
-        elif a_list[mid]< target:
-            start = mid+1
-        else:
-            return None
+from sys import stdin, stdout
+n = stdin.readline()
+N = sorted(map(int,stdin.readline().split()))
+m = stdin.readline()
+M = map(int, stdin.readline().split())
 
-
-n = int(input())
-a_list = list(map(int, input().split()))
-m = int(input())
-b_list = list(map(int, input().split()))
-a_list = sorted(a_list)
-
-
-for i in range(m):
-
-    result = binary_search(a_list, 0, n-1, b_list[i])
-    if result == None:
-        print(0)
+def binary(l, N, start, end):
+    if start > end:
+        return 0
+    m = (start+end)//2
+    if l == N[m]:
+        return 1
+    elif l < N[m]:
+        return binary(l, N, start, m-1)
     else:
-        print(1)
+        return binary(l, N, m+1, end)
+
+for l in M:
+    start = 0
+    end = len(N)-1
+    print(binary(l,N,start,end))
