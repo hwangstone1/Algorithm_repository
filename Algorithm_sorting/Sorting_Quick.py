@@ -17,7 +17,7 @@ def quick(array,start,end):
             left += 1
         while right > start and array[right] >= array[pivot]:
             right -= 1
-        if left > right:
+        if left >= right:
             array[pivot], array[right] = array[right], array[pivot]
         else:
             array[left], array[right] = array[right], array[left]

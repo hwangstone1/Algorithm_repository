@@ -1,5 +1,9 @@
-arr = [1,3,8,5,4,6,2,7]
-def merge_sort(arr):
+n = int(input())
+array = []
+for i in range(n):
+    array.append(int(input()))
+
+def merge_sort(array):
     def sort(low, high):
         if high - low < 2:
             return
@@ -9,27 +13,28 @@ def merge_sort(arr):
         merge(low, mid, high)
 
     def merge(low, mid, high):
-        temp = []
+        arr = []
         l, h = low, mid
 
         while l < mid and h < high:
-            if arr[l] < arr[h]:
-                temp.append(arr[l])
+            if array[l] < array[h]:
+                arr.append(array[l])
                 l += 1
             else:
-                temp.append(arr[h])
+                arr.append(array[h])
                 h += 1
-
         while l < mid:
-            temp.append(arr[l])
+            arr.append(array[l])
             l += 1
         while h < high:
-            temp.append(arr[h])
+            arr.append(array[h])
             h += 1
-
         for i in range(low, high):
-            arr[i] = temp[i - low]
+            array[i] = arr[i-low]
+    return sort(0, len(array))
 
-    return sort(0, len(arr))
-merge_sort(arr)
-print(arr)
+
+merge_sort(array)
+for i in range(n):
+    print(array[i])
+
