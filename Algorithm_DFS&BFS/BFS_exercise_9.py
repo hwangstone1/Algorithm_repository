@@ -1,31 +1,24 @@
 from collections import deque
+import sys
+input = sys.stdin.readline
 n, k = map(int, input().split())
+number = 100001
+check = [0] * number
 
-def bfs(n,k):
-    number = 100001
-    array = [0]*number
-    q = deque()
-    q.append(n)
-    dx = [-1, 1, 2]
+
+def bfs():
+    q = deque([n])
     while q:
         x = q.popleft()
-
         if x == k:
-            print(array[x])
+            print(check[x])
             return
-
-        for i in dx:
-            if i == 2:
-                newx = x*i
-                if 0 <= newx < number and array[newx] == 0:
-                    array[newx] = array[x]
-                    q.append(newx)
-            else:
-                newx = x+i
-                if 0 <= newx < number and array[newx] == 0:
-                    array[newx] = array[x] + 1
-                    q.append(newx)
-    print(array[k])
-    return
-
-bfs(n, k)
+        for i in (x-1, x+1, x*2):
+            if 0 <= i < number and check[i] == 0:
+                if i == x*2 and x != 0:
+                    check[i] = check[x]
+                    q.appendleft(i)
+                else:
+                    check[i] = check[x] + 1
+                    q.append(i)
+bfs()
