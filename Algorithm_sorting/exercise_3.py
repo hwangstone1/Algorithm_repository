@@ -6,12 +6,11 @@
 3.국어점수와 영어점수가 같으면 수학점수가 감소하는 순서로
 3.모든 점수가 같으면 이름이 사전 순으로 증가하는 순서로
 """
-
 n = int(input())
 student = []
 for i in range(n):
     student.append(input().split())
-
+print(student)
 student = sorted(student, key=lambda x: (-int(x[1]), int(x[2]), -int(x[3]), x[0]))
 # - 는 내림 차순 + 는 오름차순 정렬
 for i in student:

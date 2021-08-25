@@ -12,6 +12,7 @@ n , m = map(int, input().split())
 visit = [0]*n
 result = []
 
+
 def solution(n, m, v):
     if v == m :
         print(' '.join(map(str, result)))

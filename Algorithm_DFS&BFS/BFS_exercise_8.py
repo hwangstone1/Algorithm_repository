@@ -7,6 +7,7 @@ def bfs(n, k):
         print(1)
         return
     number = 100001
+    result = []
     check = [0]*number
     q = deque([(n,0)]) # 일단 수빈이의 위치와 이동횟수를 큐에 넣고 시작
     count = 0 # 수빈이가 동생의 위치까지 갈수있는 방법의 수
@@ -19,8 +20,9 @@ def bfs(n, k):
             else:
                 if cnt == check[x]:
                     count += 1
-
+            result.append(check[x])
         for i in (x-1, x+1, x*2):
+
             if  0 <= i < number:
                 if check[i] == 0 or check[i] >= cnt + 1:
                     if check[k] and cnt + 1 > check[i]:
@@ -29,6 +31,7 @@ def bfs(n, k):
                     q.append((i,cnt+1))
     print(check[x])
     print(count)
+    print(result)
     return
 
 bfs(n, k)

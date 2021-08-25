@@ -37,6 +37,7 @@ def sw_bfs():
     if count < candi:
         count = candi
 
+
 def sw_dfs(cnt, sx, sy):
     if cnt == 3:
         sw_bfs()

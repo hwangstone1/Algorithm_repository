@@ -37,4 +37,3 @@ def merge_sort(array):
 merge_sort(array)
 for i in range(n):
     print(array[i])
-

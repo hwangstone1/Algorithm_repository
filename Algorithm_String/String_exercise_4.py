@@ -5,8 +5,3 @@ data = input()
 for i in cro_list:
     data = data.replace(i, '.')
 print(len(data))
-
-
-
-
-

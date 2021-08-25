@@ -1,5 +1,5 @@
+# 무지의 먹방라이브
 import heapq
-
 
 def soiution(food_times, k):
     if sum(food_times) <= k:

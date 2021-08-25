@@ -19,6 +19,8 @@ def dfs(v):
         if visit[i] == 0 and g[v][i] == 1:
             dfs(i)
 
+
+
 for _ in range(m): #입력받은 간선으로 그래프 완성
     x, y =  map(int, input().split())
     g[x][y] = 1
