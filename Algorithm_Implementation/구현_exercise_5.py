@@ -1,21 +1,4 @@
-"""
-#2차원 배열의 합
-n, m = map(int, input().split())
-array = []
-for i in range(n):
-    array += map(int, input().split())
-
-for r in range(int(input())):
-    sum = 0
-    x, y, i, j = map(int, input().split())
-    if x == i:
-        for a in range(y-1,j):
-            sum += array[a]
-    else:
-        for a in range(y-1,j*2):
-            sum += array[a]
-    print(sum)
-"""
+# 이차원배열들의 합
 n, m = map(int, input().split())
 a = []
 dp = [[0] * (m + 1) for _ in range(n + 1)]
