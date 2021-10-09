@@ -1,5 +1,4 @@
 # 문자열분석
-
 import string
 import sys
 alpa = string.ascii_lowercase
