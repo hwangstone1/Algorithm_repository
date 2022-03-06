@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ac9b0b8c-439a-4e75-827e-87e049f6c8e0" name="Default Changelist" comment="가장 긴 증가하는 부분 수열 5 (시간개선)" />
+    <list id="b41ba548-3042-462f-b2ce-1ea4f0a6541a" name="가장 긴 증가하는 부분 수열 5 (시간개선)" comment="가장 긴 증가하는 부분 수열 5 (시간개선)" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Algorithm_binarySearch/binarySearch_exercise_2.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Algorithm_Grid/Grid_exercise_1.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1vCwVPOi6ZLWAtZFx2CzfsOCLFR" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../crawling" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.DP_exercise_1">
+    <configuration name="DP_exercise_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm_repository" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/book_exercise" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/book_exercise/DP_exercise_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="binarySearch_exercise_11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm_repository" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm_binarySearch" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm_binarySearch/binarySearch_exercise_11.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="binarySearch_exercise_12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm_repository" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm_binarySearch" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm_binarySearch/binarySearch_exercise_12.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="binarySearch_exercise_13" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm_repository" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm_binarySearch" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm_binarySearch/binarySearch_exercise_13.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm_repository" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.DP_exercise_1" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.binarySearch_exercise_13" />
+        <item itemvalue="Python.binarySearch_exercise_12" />
+        <item itemvalue="Python.binarySearch_exercise_11" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac9b0b8c-439a-4e75-827e-87e049f6c8e0" name="Default Changelist" comment="" />
+      <changelist id="b41ba548-3042-462f-b2ce-1ea4f0a6541a" name="가장 긴 증가하는 부분 수열 5 (시간개선)" comment="" />
+      <created>1626079402008</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626079402008</updated>
+    </task>
+    <task id="LOCAL-00065" summary="연속합">
+      <created>1635081009377</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1635081009377</updated>
+    </task>
+    <task id="LOCAL-00066" summary="욕심쟁이판다">
+      <created>1635171755185</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1635171755185</updated>
+    </task>
+    <task id="LOCAL-00067" summary="이모티콘">
+      <created>1635342821527</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1635342821527</updated>
+    </task>
+    <task id="LOCAL-00068" summary="물통">
+      <created>1635431305457</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1635431305458</updated>
+    </task>
+    <task id="LOCAL-00069" summary="링">
+      <created>1635858045486</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1635858045487</updated>
+    </task>
+    <task id="LOCAL-00070" summary="펠린드롭">
+      <created>1635950105005</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1635950105006</updated>
+    </task>
+    <task id="LOCAL-00071" summary="주사위 굴리기">
+      <created>1636199725467</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1636199725467</updated>
+    </task>
+    <task id="LOCAL-00072" summary="날짜계산">
+      <created>1636900366972</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1636900366972</updated>
+    </task>
+    <task id="LOCAL-00073" summary="시각">
+      <created>1637842553919</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1637842553921</updated>
+    </task>
+    <task id="LOCAL-00074" summary="왕실 나이트">
+      <created>1637843979928</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1637843979929</updated>
+    </task>
+    <task id="LOCAL-00075" summary="이항 계수 1">
+      <created>1639576785821</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1639576785821</updated>
+    </task>
+    <task id="LOCAL-00076" summary="탈출 BFS">
+      <created>1640263518427</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1640263518428</updated>
+    </task>
+    <task id="LOCAL-00077" summary="동전 1">
+      <created>1640871097737</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1640871097740</updated>
+    </task>
+    <task id="LOCAL-00078" summary="다리놓기">
+      <created>1641130089123</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1641130089124</updated>
+    </task>
+    <task id="LOCAL-00079" summary="배낭놓기">
+      <created>1641304505801</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1641304505803</updated>
+    </task>
+    <task id="LOCAL-00080" summary="베스트 셀러">
+      <created>1641394033301</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1641394033302</updated>
+    </task>
+    <task id="LOCAL-00081" summary="exercise_1">
+      <created>1641476407263</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1641476407264</updated>
+    </task>
+    <task id="LOCAL-00082" summary="exercise_2">
+      <created>1641565993569</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1641565993571</updated>
+    </task>
+    <task id="LOCAL-00083" summary="통나무 건너뛰기">
+      <created>1641630295671</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1641630295671</updated>
+    </task>
+    <task id="LOCAL-00084" summary="exercise_3">
+      <created>1641886693422</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1641886693423</updated>
+    </task>
+    <task id="LOCAL-00085" summary="구현_1">
+      <created>1641888402536</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1641888402536</updated>
+    </task>
+    <task id="LOCAL-00086" summary="구현_2">
+      <created>1641977222657</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1641977222657</updated>
+    </task>
+    <task id="LOCAL-00087" summary="구현_3">
+      <created>1642072895695</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1642072895695</updated>
+    </task>
+    <task id="LOCAL-00088" summary="미로만들기">
+      <created>1642580120828</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1642580120829</updated>
+    </task>
+    <task id="LOCAL-00089" summary="리모컨">
+      <created>1642861168416</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1642861168417</updated>
+    </task>
+    <task id="LOCAL-00090" summary="구현_4">
+      <created>1643121581681</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1643121581681</updated>
+    </task>
+    <task id="LOCAL-00091" summary="탐색">
+      <created>1643189615368</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1643189615368</updated>
+    </task>
+    <task id="LOCAL-00092" summary="탐색">
+      <created>1643198773827</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1643198773829</updated>
+    </task>
+    <task id="LOCAL-00093" summary="탐색">
+      <created>1643198816090</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1643198816090</updated>
+    </task>
+    <task id="LOCAL-00094" summary="선택정렬">
+      <created>1643292163902</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1643292163902</updated>
+    </task>
+    <task id="LOCAL-00095" summary="삽입정렬">
+      <created>1643292357619</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1643292357619</updated>
+    </task>
+    <task id="LOCAL-00096" summary="퀵정렬">
+      <created>1643354830318</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1643354830318</updated>
+    </task>
+    <task id="LOCAL-00097" summary="과자">
+      <created>1643727392944</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1643727392945</updated>
+    </task>
+    <task id="LOCAL-00098" summary="계수정렬">
+      <created>1643806759839</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1643806759839</updated>
+    </task>
+    <task id="LOCAL-00099" summary="순열 ( itertools, permutation use)">
+      <created>1644490916161</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1644490916161</updated>
+    </task>
+    <task id="LOCAL-00100" summary="조합 ( itertools, permutation use)">
+      <created>1644491237658</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1644491237658</updated>
+    </task>
+    <task id="LOCAL-00101" summary="순열 ( itertools, not permutation use)">
+      <created>1644564318614</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1644564318614</updated>
+    </task>
+    <task id="LOCAL-00102" summary="조합 ( itertools, combination not use)">
+      <created>1644564716278</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1644564716279</updated>
+    </task>
+    <task id="LOCAL-00103" summary="정렬 ( quick )">
+      <created>1644651930144</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1644651930144</updated>
+    </task>
+    <task id="LOCAL-00104" summary="정렬 연습문제 1">
+      <created>1644741284217</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1644741284217</updated>
+    </task>
+    <task id="LOCAL-00105" summary="정렬 연습문제 2">
+      <created>1644745064144</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1644745064144</updated>
+    </task>
+    <task id="LOCAL-00106" summary="이진탐색">
+      <created>1644908914904</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1644908914904</updated>
+    </task>
+    <task id="LOCAL-00107" summary="이진탐색 2">
+      <created>1644989462095</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1644989462095</updated>
+    </task>
+    <task id="LOCAL-00108" summary="이진탐색 3">
+      <created>1644990413520</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1644990413520</updated>
+    </task>
+    <task id="LOCAL-00109" summary="이진탐색 4">
+      <created>1645246238876</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1645246238876</updated>
+    </task>
+    <task id="LOCAL-00110" summary="가장 긴 증가하는 부분 수열">
+      <created>1645367297828</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1645367297828</updated>
+    </task>
+    <task id="LOCAL-00111" summary="예산">
+      <created>1645540380135</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1645540380135</updated>
+    </task>
+    <task id="LOCAL-00112" summary="가장 긴 증가하는 부분 수열 5 (시간개선)">
+      <created>1645586330425</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1645586330425</updated>
+    </task>
+    <task id="LOCAL-00113" summary="가장 긴 증가하는 부분 수열 5 (시간개선)">
+      <created>1645586622029</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1645586622029</updated>
+    </task>
+    <option name="localTasksCounter" value="114" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="구현_2" />
+    <MESSAGE value="구현_3" />
+    <MESSAGE value="미로만들기" />
+    <MESSAGE value="리모컨" />
+    <MESSAGE value="구현_4" />
+    <MESSAGE value="탐색" />
+    <MESSAGE value="선택정렬" />
+    <MESSAGE value="삽입정렬" />
+    <MESSAGE value="퀵정렬" />
+    <MESSAGE value="과자" />
+    <MESSAGE value="계수정렬" />
+    <MESSAGE value="순열 ( itertools, permutation use)" />
+    <MESSAGE value="조합 ( itertools, permutation use)" />
+    <MESSAGE value="순열 ( itertools, not permutation use)" />
+    <MESSAGE value="조합 ( itertools, combination not use)" />
+    <MESSAGE value="정렬 ( quick )" />
+    <MESSAGE value="정렬 연습문제 1" />
+    <MESSAGE value="정렬 연습문제 2" />
+    <MESSAGE value="이진탐색" />
+    <MESSAGE value="이진탐색 2" />
+    <MESSAGE value="이진탐색 3" />
+    <MESSAGE value="이진탐색 4" />
+    <MESSAGE value="가장 긴 증가하는 부분 수열" />
+    <MESSAGE value="예산" />
+    <MESSAGE value="가장 긴 증가하는 부분 수열 5 (시간개선)" />
+    <option name="LAST_COMMIT_MESSAGE" value="가장 긴 증가하는 부분 수열 5 (시간개선)" />
+  </component>
+</project>
