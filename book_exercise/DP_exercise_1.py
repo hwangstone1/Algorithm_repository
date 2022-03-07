@@ -21,5 +21,3 @@ def fibo2(x):
     d[x] = fibo2(x-1) + fibo2(x-2)
     return d[x]
 
-print(fibo2(99))
-
