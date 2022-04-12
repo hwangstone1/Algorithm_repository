@@ -14,7 +14,7 @@
 """
 
 
-arr = [1,3,8,5,4,6,2,7]
+arr = [1, 3, 8, 5, 4, 6, 2, 7]
 def merge_sort(arr):
     def sort(low, high):
         if high - low < 2:

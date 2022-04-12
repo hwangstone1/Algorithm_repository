@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac9b0b8c-439a-4e75-827e-87e049f6c8e0" name="Default Changelist" comment="가장 긴 증가하는 부분 수열 5 (시간개선)">
-      <change afterPath="$PROJECT_DIR$/Algorithm_math/math_exercise_11.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm_sorting/Sorting_merge.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_sorting/Sorting_merge.py" afterDir="false" />
     </list>
     <list id="b41ba548-3042-462f-b2ce-1ea4f0a6541a" name="가장 긴 증가하는 부분 수열 5 (시간개선)" comment="가장 긴 증가하는 부분 수열 5 (시간개선)" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +46,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="TODO_SCOPE" value="All Places" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../youtube-clone" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
